@@ -1,20 +1,19 @@
 
 
-<h1 align="center">Hi 👋, I'm Kaushal Kawade</h1>
-<h3 align="center">A passionate Java developer</h3>
+<h1 align="center">Hi 👋, I'm Sumit Chougule</h1>
+<h3 align="center">A passionate Software developer from India</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal185&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal185" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **kaushalkawade07@gmail.com**
+- 📫 How to reach me **sumitchougule2214@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kaushal kawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal kawade" height="30" width="40" /></a>
-<a href="https://instagram.com/kaushal.kawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushal.kawade" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/littleboy7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="littleboy7" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kaushal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kaushal07" height="30" width="40" /></a>
+<a href="https://https://www.linkedin.com/in/sumit-chougule-22031b19a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumit Chougule" height="30" width="40" /></a>
+<a href="https://twitter.com/SumitChoug69401" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sumit Chougule's Twitter" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
